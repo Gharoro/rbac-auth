@@ -5,7 +5,7 @@
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/Gharoro/rbac-auth.git
 ```
 
 ### 2. Navigate into the Project Directory
@@ -149,4 +149,4 @@ node -e "console.log(require('crypto').randomBytes(16).toString('hex'))"
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```
 
-Use these generated values in your `.env` file. 🚀
+Run the commands above in the terminal and use the generated values in your `.env` file.
